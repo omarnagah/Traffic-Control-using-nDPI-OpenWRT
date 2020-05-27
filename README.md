@@ -1,9 +1,7 @@
-![ntop][ntopng_logo] ![ntop][ntop_logo]
-# nDPI
-
-[![Build Status](https://travis-ci.org/ntop/nDPI.png?branch=dev)](https://travis-ci.org/ntop/nDPI)
-[![Code Quality: Cpp](https://img.shields.io/lgtm/grade/cpp/g/ntop/nDPI.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ntop/nDPI/context:cpp)
-[![Total Alerts](https://img.shields.io/lgtm/alerts/g/ntop/nDPI.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ntop/nDPI/alerts)
+## Modifications on nDPI
+nDPI is modified to block websites using firewall  
+Add "-z" then websites you want to block seperated by space  
+ 
 
 ## What is nDPI ?
 
